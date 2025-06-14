@@ -25,6 +25,25 @@ git clone https://github.com/yourname/fitgirl-cli.git
 
 cd fitgirl-cli
 
-pip install -e .
+pip install -e .  
 
+```
+```bash
 fitgirl -h
+
+FitGirl Repacks CLI
+
+positional arguments:
+  {status,newposts,search,download}
+    status              Check if site is up
+    newposts            List latest posts
+    search              Search for repacks
+    download            Interactive download
+
+options:
+  -h, --help            show this help message and exit
+
+```
+
+
+![Demo](demo.png)
