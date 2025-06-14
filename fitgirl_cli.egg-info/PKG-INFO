@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: fitgirl_cli
+Version: 0.1.0
+Summary: A terminal-based CLI for FitGirl Repacks links
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: rich
+Requires-Dist: httpx

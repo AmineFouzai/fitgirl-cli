@@ -1,0 +1,15 @@
+README.md
+setup.py
+core/__init__.py
+core/client.py
+core/parser.py
+fitgirl_cli.egg-info/PKG-INFO
+fitgirl_cli.egg-info/SOURCES.txt
+fitgirl_cli.egg-info/dependency_links.txt
+fitgirl_cli.egg-info/entry_points.txt
+fitgirl_cli.egg-info/requires.txt
+fitgirl_cli.egg-info/top_level.txt
+utils/__init__.py
+utils/config.py
+utils/display.py
+utils/pagination.py
