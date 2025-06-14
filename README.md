@@ -1,4 +1,4 @@
-# 🎮 fitgirl-cli
+# 🎮 FitGirl-Cli
 
 A terminal-based CLI tool for browsing and interacting with FitGirl repacks and download links.
 
