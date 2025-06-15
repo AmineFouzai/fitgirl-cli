@@ -3,6 +3,7 @@
 A terminal-based CLI tool for browsing and interacting with FitGirl repacks and download links.
 
 ---
+
 ![FitGirl Logo](fit-girl.jpg)
 
 ## 🚀 Features
